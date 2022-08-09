@@ -5,6 +5,7 @@ import MessageList from "./MessageList";
 import NewMessage from "./NewMessage";
 
 const testUser = { username: "Duane" };
+// const testUser = { username: "Duane" };
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(true);
